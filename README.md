@@ -1,2 +1,1 @@
-I'm Kiem Cun no anything abou me
-<h1 color="red">C#, Python, C++</h1>
+<h1 color="red">This is some content on this Profile</h1>
